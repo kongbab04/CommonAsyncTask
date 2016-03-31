@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CommonAsyncTask</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="common_loading">処理中です。しばらくお待ちください。</string>
+
+    <string name="splash_progress_start">初期化中です。</string>
+    <string name="splash_progress_update">アップデート中です。</string>
+    <string name="splash_progress_end">初期化完了</string>
+
+
+</resources>
